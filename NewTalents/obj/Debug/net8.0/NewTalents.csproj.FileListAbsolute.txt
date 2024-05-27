@@ -1,0 +1,15 @@
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\bin\Debug\net8.0\NewTalents.exe
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\bin\Debug\net8.0\NewTalents.deps.json
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\bin\Debug\net8.0\NewTalents.runtimeconfig.json
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\bin\Debug\net8.0\NewTalents.dll
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\bin\Debug\net8.0\NewTalents.pdb
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfoInputs.cache
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\NewTalents.AssemblyInfo.cs
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\NewTalents.csproj.CoreCompileInputs.cache
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\NewTalents.sourcelink.json
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\NewTalents.dll
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\refint\NewTalents.dll
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\NewTalents.pdb
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\NewTalents.genruntimeconfig.cache
+M:\Documentos\C Sharp .net\projetos\dio-desafio\ModuloNewTalents\NewTalents\obj\Debug\net8.0\ref\NewTalents.dll
